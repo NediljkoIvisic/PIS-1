@@ -9,6 +9,9 @@ namespace Vjezba1
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hello world.\n");
+            //Prva promjena
+            Console.Write("Prva izmjena koda u Program.cs.\n");
         }
     }
 }

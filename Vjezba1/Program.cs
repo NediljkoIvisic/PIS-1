@@ -13,5 +13,10 @@ namespace Vjezba1
             //Prva promjena
             Console.Write("Prva izmjena koda u Program.cs.\n");
         }
+
+        void newClass()
+        {
+            //Nova klasa na lokalnom računalu
+        }
     }
 }

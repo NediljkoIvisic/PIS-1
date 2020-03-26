@@ -18,5 +18,10 @@ namespace Vjezba1
         {
             //Nova klasa na lokalnom računalu
         }
+        
+        void kolaborator()
+        {
+            //Izmjena programa od strane kolaboratora
+        }
     }
 }
